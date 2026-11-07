@@ -1,0 +1,11 @@
+{
+  "name": "ai-assignment-scaffolding",
+  "owner": { "name": "Vince Castillo" },
+  "plugins": [
+    {
+      "name": "ai-assignment-scaffolding",
+      "source": "./",
+      "description": "Guide a faculty member through designing an AI-use assignment scaffold and rollout plan that keeps students' own thinking and voice in charge."
+    }
+  ]
+}
