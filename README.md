@@ -55,3 +55,7 @@ The skill does not need student names or records. Don't share them.
 ## Feedback
 
 Questions, suggestions, or stories from your classroom are welcome. Open an issue on this page, or email Vince Castillo at castillo.230@osu.edu.
+
+## License
+
+Shared under [CC BY 4.0](LICENSE). You're free to use, share, and adapt this skill for your own courses, as long as you credit Vince Castillo and link back to this page.
